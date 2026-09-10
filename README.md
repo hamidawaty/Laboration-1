@@ -1,12 +1,17 @@
 # labb 2 Versionshantering 
 
-## 📖  om projektet
+## 📚 om projektet
 Det projektet är en webplats som är lösning till laboration 2. Webbplatsen några sidor med lite införmation om mig, mina intressen och kontaktuppgifter.
 
 ## 🛠️ Tekniker
 Jag änvende **HTML** för att skapa webbplatsens strutur och innehåll.samt väldigt enkel **CSS** för att förbättra utseendet.
 
-## Frågor.
+## 🌐 publicerade versioner.
+
+**Netlify** [Besök webbsidan i Netlify](https://labration-2.netlify.app/)
+**GitHub Pages** [Besök webbsidan i GitHub pages](https://hamidawaty.github.io/Laboration-1/)
+
+## ⁉️ Frågor.
 
 ### Vad är skilnden mellan git add och git commit?
 när man använder _git add_ så läggs de ändrade filarna i 'Staging area' medan _git commit_ sparar dessa ändringar i git. 
