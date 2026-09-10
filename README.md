@@ -8,8 +8,11 @@ Jag änvende **HTML** för att skapa webbplatsens strutur och innehåll.samt vä
 
 ## 🌐 publicerade versioner.
 
-**Netlify** [Besök webbsidan i Netlify](https://labration-2.netlify.app/)
-**GitHub Pages** [Besök webbsidan i GitHub pages](https://hamidawaty.github.io/Laboration-1/)
+**Netlify** [Besök webbsidan i Netlify](https://labration-2.netlify.app/).
+
+**GitHub Pages** [Besök webbsidan i GitHub pages](https://hamidawaty.github.io/Laboration-1/).
+
+**varcel** [besök webbsidan i Varcel](https://laboration-1.vercel.app/).
 
 ## ⁉️ Frågor.
 
